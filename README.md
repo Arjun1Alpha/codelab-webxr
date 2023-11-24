@@ -21,3 +21,5 @@ This is a work in progress. If you find a mistake or have a suggestion, please [
 * [The sample code](https://github.com/googlecodelabs/ar-with-webxr/archive/refs/heads/master.zip)
 * A text editor
 * Basic knowledge of HTML, CSS, JavaScript, and Chrome DevTools
+
+<a href="./final/index.html">index</a>
